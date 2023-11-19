@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/be510767817393.5b472244e895f.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lewis Onyango</h1>
 <h3 align="center">A passionate UI/UX Developer from Nairobi, Kenya. I Love to code and my life is code.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
